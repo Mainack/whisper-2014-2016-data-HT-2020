@@ -48,6 +48,22 @@
 | **serial** | An incremental serial assigned to each post by us.  | integer | 
 | **feeds** | List of additional labels for the whisper text. Very few whispers contain this | list |
 
+## Other publications based on this data 
+
+* Part of this data is used in two other of our published work.
+~~~
+Characterizing Usage of Explicit Hate Expressions in Social Media 
+Mainack Mondal, Leandro Araujo Silva, Denzil Correa and Fabricio Benevenuto.
+New Review of Hypermedia and Multimedia (THAM), vol. 24, no. 2, pp. 110-130, June 2018.
+~~~
+Read the THAM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/tham_mondal2018.pdf)
+
+~~~
+Analyzing the Targets of Hate in Online Social Media.
+Leandro Silva, Mainack Modal, Denzil Correa, Fabricio Benevenuto, and Ingmar Weber.
+In Proceedings of the Int'l AAAI Conference on Weblogs and Social (ICWSM’16). Cologne, Germany. May 2016. 
+~~~
+Read the ICWSM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icwsm2016-hate.pdf)
 
 
 ###### Release date: 10th June, 2020
