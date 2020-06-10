@@ -48,7 +48,7 @@
 | **serial** | An incremental serial assigned to each post by us.  | integer | 
 | **feeds** | List of additional labels for the whisper text. Very few whispers contain this | list |
 
-1. We removed PII from this dataset using a regex-based approach. We used regular expressions to identify potential PII like phone numbers, emails, ip addresses, bitcoin addresses, street addresses, zip codes, po boxes and ssn numbers in the whisper texts. Then we replaced all of those detected strings with easily-detectable placeholders like “[[POS- SIBLE_BTC_ADDRESSES]]” in the whisper texts. 
+**Note:** We removed PII from this dataset using a regex-based approach. We used regular expressions to identify potential PII like phone numbers, emails, ip addresses, bitcoin addresses, street addresses, zip codes, po boxes and ssn numbers in the whisper texts. Then we replaced all of those detected strings with easily-detectable placeholders like “[[POS- SIBLE_BTC_ADDRESSES]]” in the whisper texts. 
 
 ## Other publications based on this data 
 
