@@ -75,5 +75,5 @@ In Proceedings of the Int'l AAAI Conference on Weblogs and Social (ICWSM’16). 
 Read the ICWSM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icwsm2016-hate.pdf)
 
 
-###### Release date: 10th June, 2020
+###### Release date: 9th June, 2020
 ###### Authors: Mainack Mondal, Denzil Correa and Fabricio Benevenuto
