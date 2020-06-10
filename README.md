@@ -26,7 +26,7 @@
 
 ## How can I get this data? 
 
-* **The full Whisper dataset is available upon request for academic research purposes. Please follow the instructions provided in [agreement-whisperdata.txt](https://raw.githubusercontent.com/Mainack/whisper-2014-2016-data-HT-2020/master/agreement-whisperdata.txt).**
+* **The full Whisper dataset (divided into multiple files for ease of downloading) is available upon request for academic research purposes. Please follow the instructions provided in [agreement-whisperdata.txt](https://raw.githubusercontent.com/Mainack/whisper-2014-2016-data-HT-2020/master/agreement-whisperdata.txt).**
 
 
 ## Description of the Whisper data 
