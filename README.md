@@ -6,7 +6,7 @@
 
 1. *If you have any questions about this data feel free to contact Dr. Mainack Mondal (email id in the paper pdf).*
 
-1. **Please cite our paper in any published work that uses any of these resources.**
+1. **Please cite our paper in any published work that uses this data.**
 
 ~~~
 @inproceedings{mondal2020,
