@@ -1,7 +1,7 @@
-You need to send us this agreement to access full whisper objects in our Whisper dataset. PLEASE ACKNOWLEDGE YOUR AGREEMENT BY ADDING YOUR NAME, POSITION, INSTITUTION AND DATE BELOW, then send a single e-mail to Mainack Mondal (mainack [[at]] cse.iitkgp.ac.in) and cc Fabricio Benevenuto (fabricio [[at]] dcc.ufmg.br) from your e-mail address at your institution. The email should contain the text below.
+You need to send us this agreement to access full whisper objects in our Whisper dataset. PLEASE ACKNOWLEDGE YOUR AGREEMENT BY ADDING YOUR NAME, POSITION, INSTITUTION AND DATE BELOW, then send a single e-mail to Mainack Mondal (mainack [[at]] cse.iitkgp.ac.in) and cc Denzil Correa (denzilc [[at]] iiitd.ac.in), Fabricio Benevenuto (fabricio [[at]] dcc.ufmg.br) from your e-mail address at your institution. The email should contain the text below.
 
 ===================================================================
-     TO: Mainack Mondal, Fabricio Benevenuto
+     TO: Mainack Mondal, Denzil Correa, Fabricio Benevenuto
 SUBJECT: Request for data collection [HT'20 Whisper data]
 
 I, a person engaging in scientific research, hereby apply to use the whisper objects of the whisper-2014-2016-data-HT-2020 data set (the Data). In consideration of the provision of this data, I agree to:
