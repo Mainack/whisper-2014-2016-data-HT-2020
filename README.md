@@ -1,8 +1,8 @@
-## ANONYMIZED DATA COLLECTED FROM WHISPER
+## DATA COLLECTED FROM WHISPER
 
 1. This repository contains information to access data from *Mainack Mondal, Denzil Correa and Fabricio Benevenuto. 2020. "Anonymity Effects: A Large-Scale Dataset from an Anonymous Social Media Platform." HT'20.* Read the paper [here](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf).
 
-1. This dataset contained 89,877,121 anonymous Whisper posts uploaded from June 2014 to June 2016. We further anonymized the data to protect user privacy as mentioned in our [paper](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf)
+1. This dataset contained **89,877,121 anonymously written Whisper posts** uploaded from June 2014 to June 2016. We further anonymized the data to protect user privacy as mentioned in our [paper](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf)
 
 1. *If you have any questions about this data feel free to contact Dr. Mainack Mondal (email id in the paper pdf).*
 
@@ -22,11 +22,11 @@
 ## WARNING
 
 1. This dataset contain swear words and hateful language that users posted while expressing hate.
-1. The dataset is stored as one whisper json object per line. 
 
-## ACCESSING THE DATA
 
-* **The Whisper dataset is available upon request for academic research purposes. Please follow the instructions provided in [agreement-whisperobject.txt](https://raw.githubusercontent.com/Mainack/whisper-2014-2016-data-HT-2020/master/agreement-whisperobject.txt).**
+## HOW CAN I GET THIS DATA?
+
+* **The full Whisper dataset is available upon request for academic research purposes. Please follow the instructions provided in [agreement-whisperobject.txt](https://raw.githubusercontent.com/Mainack/whisper-2014-2016-data-HT-2020/master/agreement-whisperobject.txt).**
 
 
 ## DESCRIPTION OF WHISPER DATA
