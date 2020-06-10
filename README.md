@@ -33,7 +33,7 @@
 
 1. Whisper is an anonymous social media site. A post on Whisper is called "whisper". 
 
-1. Our Whisper dataset contains a total of 89,877,121 posts uploaded by anonymous users from June 2014 to June 2016. Each whisper is represented as a json object.
+1. Our Whisper dataset contains a total of 89,877,121 whispers uploaded by anonymous users from June 2014 to June 2016. Each whisper is represented as a json object.
 
 1. Each whisper objects contain the following fields
 
@@ -48,22 +48,24 @@
 | **serial** | An incremental serial assigned to each post by us.  | integer | 
 | **feeds** | List of additional labels for the whisper text. Very few whispers contain this | list |
 
+1. We removed PII from this dataset using a regex-based approach. We used regular expressions to identify potential PII like phone numbers, emails, ip addresses, bitcoin addresses, street addresses, zip codes, po boxes and ssn numbers in the whisper texts. Then we replaced all of those detected strings with easily-detectable placeholders like “[[POS- SIBLE_BTC_ADDRESSES]]” in the whisper texts. 
+
 ## Other publications based on this data 
 
 * Part of this data is used in three other of our published work.
-~~~
-A Measurement Study of Hate Speech in Social Media
-Mainack Mondal, Leandro Araújo Silva, Fabrício Benevenuto.
-In Proceedings of the 25th ACM Conference on Hypertext and Social Media (HT'17), Prague, Czech Republic, July 2017.
-~~~
-Read the HypterText paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
-
 ~~~
 Characterizing Usage of Explicit Hate Expressions in Social Media 
 Mainack Mondal, Leandro Araujo Silva, Denzil Correa and Fabricio Benevenuto.
 New Review of Hypermedia and Multimedia (THAM), vol. 24, no. 2, pp. 110-130, June 2018.
 ~~~
 Read the THAM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/tham_mondal2018.pdf)
+
+~~~
+A Measurement Study of Hate Speech in Social Media
+Mainack Mondal, Leandro Araújo Silva, Fabrício Benevenuto.
+In Proceedings of the 25th ACM Conference on Hypertext and Social Media (HT'17), Prague, Czech Republic, July 2017.
+~~~
+Read the HypterText paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
 
 ~~~
 Analyzing the Targets of Hate in Online Social Media.
