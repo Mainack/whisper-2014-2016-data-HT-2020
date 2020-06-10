@@ -1,8 +1,8 @@
-## DATA COLLECTED FROM WHISPER
+## Data collected from Whisper
 
 1. This repository contains information to access data from *Mainack Mondal, Denzil Correa and Fabricio Benevenuto. 2020. "Anonymity Effects: A Large-Scale Dataset from an Anonymous Social Media Platform." HT'20.* Read the paper [here](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf).
 
-1. This dataset contained **89,877,121 anonymously written Whisper posts** uploaded from June 2014 to June 2016. We further anonymized the data to protect user privacy as mentioned in our [paper](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf)
+1. This dataset contained **89,877,121 anonymously written posts** uploaded in the social media site Whisper from June 2014 to June 2016. We further anonymized the data to protect user privacy as mentioned in our [paper](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf)
 
 1. *If you have any questions about this data feel free to contact Dr. Mainack Mondal (email id in the paper pdf).*
 
@@ -19,23 +19,23 @@
 }
 ~~~
 
-## WARNING
+## Warning
 
 1. This dataset contain swear words and hateful language that users posted while expressing hate.
 
 
-## HOW CAN I GET THIS DATA?
+## How can I get this data? 
 
 * **The full Whisper dataset is available upon request for academic research purposes. Please follow the instructions provided in [agreement-whisperobject.txt](https://raw.githubusercontent.com/Mainack/whisper-2014-2016-data-HT-2020/master/agreement-whisperobject.txt).**
 
 
-## DESCRIPTION OF WHISPER DATA
+## Description of the Whisper data 
 
-1. Whisper is an anonymous social media site.
+1. Whisper is an anonymous social media site. A post on Whisper is called "whisper". 
 
-1. Our Whisper dataset contains a total of 89,877,121 posts uploaded by anonymous users from June 2014 to June 2016. Each whisper is expressed as a standalone json object.
+1. Our Whisper dataset contains a total of 89,877,121 posts uploaded by anonymous users from June 2014 to June 2016. Each whisper is represented as a json object.
 
-1. Our whisper objects contain the following fields
+1. Each whisper objects contain the following fields
 
 | Field name | Description | Data Type |
 | ---- | ----- | ---|
@@ -50,7 +50,14 @@
 
 ## Other publications based on this data 
 
-* Part of this data is used in two other of our published work.
+* Part of this data is used in three other of our published work.
+~~~
+A Measurement Study of Hate Speech in Social Media
+Mainack Mondal, Leandro Araújo Silva, Fabrício Benevenuto.
+In Proceedings of the 25th ACM Conference on Hypertext and Social Media (HT'17), Prague, Czech Republic, July 2017.
+~~~
+Read the HypterText paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
+
 ~~~
 Characterizing Usage of Explicit Hate Expressions in Social Media 
 Mainack Mondal, Leandro Araujo Silva, Denzil Correa and Fabricio Benevenuto.
