@@ -1,6 +1,6 @@
 ## ANONYMIZED DATA COLLECTED FROM WHISPER
 
-1. This repository contains information to access data from *Mainack Mondal, Denzil Correa and Fabricio Benevenuto. 2020. "Anonymity Effects: A Large-Scale Dataset from an Anonymous Social Media Platform." HT'20.* You can read the paper [here](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf)
+1. This repository contains information to access data from *Mainack Mondal, Denzil Correa and Fabricio Benevenuto. 2020. "Anonymity Effects: A Large-Scale Dataset from an Anonymous Social Media Platform." HT'20.* Read the paper [here](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf).
 
 1. This dataset contained 89,877,121 anonymous Whisper posts uploaded from June 2014 to June 2016. We further anonymized the data to protect user privacy as mentioned in our [paper](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf)
 
