@@ -44,7 +44,7 @@
 | **places** | List of specific locations included the whisper object. Each location contains "placetype" and "name". "placetype" can be either country (e.g., US) or region (e.g., US states) | list |
 | **me2** | Number of favorites for the whisper | integer |
 | **nickname** | Non-persistent anonymous username | string | 
-| **ts** | Unix timestamp in microseconds stating the up- load time of the whisper | integer |
+| **ts** | Unix timestamp in microseconds stating the up-load time of the whisper | integer |
 | **serial** | An incremental serial assigned to each post by us.  | integer | 
 | **feeds** | List of additional labels for the whisper text. Very few whispers contain this | list |
 
