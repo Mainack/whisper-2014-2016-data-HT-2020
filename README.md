@@ -66,6 +66,7 @@ Mainack Mondal, Leandro Araújo Silva, Fabrício Benevenuto.
 In Proceedings of the 25th ACM Conference on Hypertext and Social Media (HT'17), Prague, Czech Republic, July 2017.
 ~~~
 Read the HypterText 2017 paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
+
 Get the hatespeech data for HypterText 2017 paper from [here](https://github.com/Mainack/hatespeech-data-HT-2017)
 
 ~~~
