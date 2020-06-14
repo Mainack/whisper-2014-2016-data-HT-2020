@@ -39,7 +39,7 @@
 
 | Field name | Description | Data Type |
 | ---- | ----- | ---|
-| **text** | Text of the whisper | string|
+| **text** | User generated text of the whisper | string|
 | **categories** | List of categories assigned to this whisper by the users and/or Whisper’s internal algorithm | list|
 | **places** | List of specific locations included the whisper object. Each location contains "placetype" and "name". "placetype" can be either country (e.g., US) or region (e.g., US states) | list |
 | **me2** | Number of favorites for the whisper | integer |
@@ -65,7 +65,8 @@ A Measurement Study of Hate Speech in Social Media
 Mainack Mondal, Leandro Araújo Silva, Fabrício Benevenuto.
 In Proceedings of the 25th ACM Conference on Hypertext and Social Media (HT'17), Prague, Czech Republic, July 2017.
 ~~~
-Read the HypterText paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
+Read the HypterText 2017 paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/HT2017-hatespeech.pdf)
+Get the hatespeech data for HypterText 2017 paper from [here](https://github.com/Mainack/hatespeech-data-HT-2017)
 
 ~~~
 Analyzing the Targets of Hate in Online Social Media.
