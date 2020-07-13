@@ -52,7 +52,7 @@
 
 ## Other publications based on this data 
 
-* Part of this data is used in three of our other published works.
+* Part of this data is used in four of our other published works.
 ~~~
 Characterizing Usage of Explicit Hate Expressions in Social Media 
 Mainack Mondal, Leandro Araujo Silva, Denzil Correa and Fabricio Benevenuto.
