@@ -71,11 +71,19 @@ Get the hatespeech data for HypterText 2017 paper from [here](https://github.com
 
 ~~~
 Analyzing the Targets of Hate in Online Social Media.
-Leandro Silva, Mainack Modal, Denzil Correa, Fabricio Benevenuto, and Ingmar Weber.
-In Proceedings of the Int'l AAAI Conference on Weblogs and Social (ICWSM’16). Cologne, Germany. May 2016. 
+Leandro Araújo Silva, Mainack Modal, Denzil Correa, Fabricio Benevenuto, and Ingmar Weber.
+In Proceedings of The 10th International AAAI Conference on Weblogs and Social Media (ICWSM'16). Cologne, Germany. May 2016. 
 ~~~
-Read the ICWSM paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icwsm2016-hate.pdf)
+Read the ICWSM 2016 paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/icwsm2016-hate.pdf)
+
+~~~
+The Many Shades of Anonymity: Characterizing Anonymous Social Media Content
+Denzil Correa, Leandro Araújo Silva, Mainack Mondal, Fabrício Benevenuto and Krishna P. Gummadi.
+In Proceedings of The 9th International AAAI Conference on Weblogs and Social Media (ICWSM'15), Oxford, UK, May 2015.
+~~~
+Read the ICWSM 2015 paper [here](https://homepages.dcc.ufmg.br/~fabricio/download/anonymity_shades.pdf)
 
 
-###### Release date: 9th June, 2020
+
+###### Release date: 30th June, 2020
 ###### Authors: Mainack Mondal, Denzil Correa and Fabricio Benevenuto
