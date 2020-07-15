@@ -1,5 +1,5 @@
 ## Data collected from Whisper, an anonymous social media site
-[Go to "How can I get this data" section](#how-can-i-get-this-data)
+[Take me to "How can I get this data" section](#how-can-i-get-this-data)
 
 1. This repository contains information to access data from *Mainack Mondal, Denzil Correa and Fabricio Benevenuto. 2020. "Anonymity Effects: A Large-Scale Dataset from an Anonymous Social Media Platform." HT'20.* Read the paper [here](http://cse.iitkgp.ac.in/~mainack/publications/whisper-data-ht-2020.pdf).
 
